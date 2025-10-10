@@ -14,3 +14,11 @@ button {
     color: white;
     font-family:  "Bebas Neue", sans-serif;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
